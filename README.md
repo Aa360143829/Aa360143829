@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Aa360143829/Aa360143829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+你好，我是 Aa360143829 👋
+一个还在折腾的路上的人。这个页面会慢慢长起来。
+关于我
+- 🔭 目前在弄：
+- 🌱 正在学：
+- 💬 可以聊：
+- 📫 联系我：
+最近在写
+暂时还没有公开的项目，正在攒。
+这个号
+2026 年 11 月建的。慢慢来。
